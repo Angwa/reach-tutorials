@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(221, 226, 231);
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+      'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+      sans-serif;
+}
+
+.App{
+    display: block;
+    width: 800px;
+    padding: 50px 10px 50px 10px;
+    margin:auto;
+    text-align: center;
+    background-color: #fff;
+    margin-top:20px;
+    border-radius: 8px;
+}
